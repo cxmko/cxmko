@@ -14,9 +14,6 @@
     <a href="mailto:cam.mouangue@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
-    <a href="https://github.com/cxmko/CV/blob/main/CV.pdf">
-      <img src="https://img.shields.io/badge/View_My_CV-FF5733?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV"/>
-    </a>
   </p>
 </div>
 
