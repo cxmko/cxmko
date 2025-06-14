@@ -53,7 +53,9 @@ Here are some of the projects I'm most proud of. They showcase my skills in mach
 | 🧠 **[Optimal Budget Rejection Sampling w/ GANs][OBRS]** | Implemented the OBRS algorithm (AISTATS 2024) to improve GAN sample quality, boosting recall by **185%** and precision by **69%**.                      | `PyTorch`, `GANs`, `Deep Learning Theory`, `Statistics`             |
 | 🏡 **[French Housing Price Prediction][ENS]** | A regression model to estimate real estate prices from tabular data, achieving a **29.7 MAPE** and laying groundwork for a multimodal approach. | `Random Forest`, `XGBoost`, `Interpretability`, `Regression`        |
 | 🛡️ **[Adversarial Attacks on NNs][Adversarial]** | Implemented FGSM and PGD attacks to study neural network vulnerabilities on the CIFAR10 dataset.                                          | `PyTorch`, `Computer Vision`, `ResNet`, `Model Robustness`          |
-| 🧩 **[Personal & Fun Projects][Fun]** | A collection of smaller projects, including a sports betting arbitrage calculator and solutions to Jane Street's monthly puzzles.               | `Python`, `Web Scraping`, `Optimization`, `Problem-Solving`         |
+| 💸 **[Best Odds Arbitrage Calculator][Arbitrage]** | A Python tool that scrapes betting sites to find arbitrage opportunities, calculating optimal bet distributions to maximize gains from welcome bonuses. | `Python`, `Web Scraping`, `Optimization` |
+| 🧩 **[Jane Street Puzzles][Puzzles]** | A repository containing my solutions to the challenging monthly mathematical and computational puzzles from the quantitative trading firm Jane Street. | `Python`, `Algorithms`, `Problem-Solving` |
+
 
 [BNP]: https://github.com/cxmko/BNP-Paribas-Fraud-Detection
 [SP500]: https://github.com/cxmko/SP500-Price-Prediction
@@ -61,7 +63,8 @@ Here are some of the projects I'm most proud of. They showcase my skills in mach
 [OBRS]: https://github.com/cxmko/Deep-Learning-Final-Project
 [ENS]: https://github.com/cxmko/ENS-House-Price-Prediction
 [Adversarial]: https://github.com/cxmko/Adversarial-attacks
-[Fun]: https://github.com/cxmko/Best-Odds-Calculator
+[Arbitrage]: https://github.com/cxmko/Best-Odds-Calculator
+[Puzzles]: https://github.com/cxmko/Jane-street-puzzles
 
 ---
 
