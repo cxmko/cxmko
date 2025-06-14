@@ -77,7 +77,5 @@ I am continuously deepening my expertise at the intersection of technology and f
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cxmko&show_icons=true&theme=dracula&count_private=true&hide_border=true" alt="Cameron's GitHub Stats" />
-</p>
+
 
