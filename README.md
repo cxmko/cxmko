@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Cameron Mouangue 👋</h1>
   <p>
-    An aspiring Quantitative Researcher and Machine Learning Engineer, currently pursuing a Double Bachelor's in <strong>Computer Science and Economics</strong> at <strong>Université Paris Dauphine-PSL</strong>.
+    An aspiring Quant and Machine Learning Engineer, currently pursuing a Double Bachelor's in <strong>Computer Science/ML and Economics</strong> at <strong>Université Paris Dauphine-PSL</strong>.
   </p>
   <p>
     I am passionate about developing and deploying robust algorithmic strategies by applying statistical modeling and deep learning to financial market data.
