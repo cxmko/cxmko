@@ -47,13 +47,13 @@ Here are some of the projects I'm most proud of. They showcase my skills in mach
 
 | Project                                                                | Description                                                                                                                                     | Key Technologies                                                    |
 | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| 🥇 **[BNP Paribas Fraud Detection][BNP]** | [cite_start]**1st Place** solution for a competitive challenge, detecting fraud in transaction data with a PR-AUC score of **0.3507**.                            | `XGBoost`, `Scikit-learn`, `Pandas`, `Feature Engineering`            |
-| 📈 **[S&P 500 Price Prediction][SP500]** | [cite_start]Time-series forecasting of the S&P 500 index using LSTM & CNN models with wavelet denoising and a backtesting simulator.                        | `PyTorch`, `LSTMs`, `CNNs`, `Time-Series`, `Wavelets`                 |
-| ☁️ **[Algorithmic Trading Deployment Platform][Deploy]** | [cite_start]A cloud-native platform for deploying trading strategies, featuring IaC, containerization, and automated CI/CD pipelines.                        | `AWS`, `Terraform`, `Docker`, `GitHub Actions`                        |
-| 🧠 **[Optimal Budget Rejection Sampling w/ GANs][OBRS]** | [cite_start]Implemented the OBRS algorithm (AISTATS 2024) to improve GAN sample quality, boosting recall by **185%** and precision by **69%**.                      | `PyTorch`, `GANs`, `Deep Learning Theory`, `Statistics`             |
+| 🥇 **[BNP Paribas Fraud Detection][BNP]** | **1st Place** solution for a competitive challenge, detecting fraud in transaction data with a PR-AUC score of **0.3507**.                            | `XGBoost`, `Scikit-learn`, `Pandas`, `Feature Engineering`            |
+| 📈 **[S&P 500 Price Prediction][SP500]** | Time-series forecasting of the S&P 500 index using LSTM & CNN models with wavelet denoising and a backtesting simulator.                        | `PyTorch`, `LSTMs`, `CNNs`, `Time-Series`, `Wavelets`                 |
+| ☁️ **[Algorithmic Trading Deployment Platform][Deploy]** | A cloud-native platform for deploying trading strategies, featuring IaC, containerization, and automated CI/CD pipelines.                        | `AWS`, `Terraform`, `Docker`, `GitHub Actions`                        |
+| 🧠 **[Optimal Budget Rejection Sampling w/ GANs][OBRS]** | Implemented the OBRS algorithm (AISTATS 2024) to improve GAN sample quality, boosting recall by **185%** and precision by **69%**.                      | `PyTorch`, `GANs`, `Deep Learning Theory`, `Statistics`             |
 | 🏡 **[French Housing Price Prediction][ENS]** | A regression model to estimate real estate prices from tabular data, achieving a **29.7 MAPE** and laying groundwork for a multimodal approach. | `Random Forest`, `XGBoost`, `Interpretability`, `Regression`        |
-| 🛡️ **[Adversarial Attacks on NNs][Adversarial]** | [cite_start]Implemented FGSM and PGD attacks to study neural network vulnerabilities on the CIFAR10 dataset.                                          | `PyTorch`, `Computer Vision`, `ResNet`, `Model Robustness`          |
-| 🧩 **[Personal & Fun Projects][Fun]** | [cite_start]A collection of smaller projects, including a sports betting arbitrage calculator and solutions to Jane Street's monthly puzzles.               | `Python`, `Web Scraping`, `Optimization`, `Problem-Solving`         |
+| 🛡️ **[Adversarial Attacks on NNs][Adversarial]** | Implemented FGSM and PGD attacks to study neural network vulnerabilities on the CIFAR10 dataset.                                          | `PyTorch`, `Computer Vision`, `ResNet`, `Model Robustness`          |
+| 🧩 **[Personal & Fun Projects][Fun]** | A collection of smaller projects, including a sports betting arbitrage calculator and solutions to Jane Street's monthly puzzles.               | `Python`, `Web Scraping`, `Optimization`, `Problem-Solving`         |
 
 [BNP]: https://github.com/cxmko/BNP-Paribas-Fraud-Detection
 [SP500]: https://github.com/cxmko/SP500-Price-Prediction
@@ -68,9 +68,9 @@ Here are some of the projects I'm most proud of. They showcase my skills in mach
 ## 🌱 What I'm Focused On
 
 I am continuously deepening my expertise at the intersection of technology and finance. Currently, I am:
--   [cite_start]Preparing for my **Research Internship at Observatoire de Paris-PSL** [cite: 4][cite_start], where I will be developing models for astrophysical trajectories using large-scale space mission data. 
--   Exploring advanced topics like **market microstructure**, **high-frequency data analysis**, and **Reinforcement Learning** for trading applications.
--   [cite_start]Contributing to student-led AI and blockchain communities, **KRYPTOSPHERE & ALIAS**, where I help organize events and mentor junior students. 
+-   Conducting my **Research Internship at Observatoire de Paris-PSL**, where I am developing models for astrophysical trajectories using large-scale space mission data. 
+-   Exploring advanced topics like **high-frequency data analysis**, and **Deep Learning** for trading applications.
+-   Contributing to student-led AI and blockchain communities, **KRYPTOSPHERE & ALIAS**, where I help organize events and mentor junior students. 
 
 <br>
 
